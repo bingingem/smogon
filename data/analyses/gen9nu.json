@@ -100,7 +100,7 @@
   "Typhlosion-Hisui": {"sets": {"All-out Attacker": {}, "Choice Item": {}}},
   "Quagsire": {"sets": {"Defensive": {}}},
   "Espeon": {"sets": {"Choice Specs": {}, "Rain Support": {}}},
-  "Gligar": {"sets": {"Physical Wall": {}}},
+  "Gligar": {"sets": {"Physical Wall": {"description": "<p>56 Speed EVs allows Gligar to outspeed Adamant Incineroar, while 140 Speed EVs lets it outpace Timid Incineroar and Adamant Decidueye.</p>"}, "Double Dance": {}}},
   "Qwilfish-Hisui": {"sets": {"Rain Sweeper": {}}},
   "Heracross": {"sets": {"Wallbreaker": {}, "Choice Scarf": {}, "Spikes Setter": {}}},
   "Sneasel": {"sets": {"Swords Dance": {}}},
@@ -370,6 +370,7 @@
     },
     "credits": {"writtenBy": [{"user_id": 609709, "username": "Pika134"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 583607, "username": "PowerOfMemes"}, {"user_id": 336073, "username": "Rabia"}]}, {"name": "Grammar checked by", "members": [{"user_id": 555379, "username": "Tbolt"}]}]}
   },
+  "Oricorio": {"sets": {"Quiver Dance": {}}},
   "Oricorio-Pom-Pom": {
     "overview": "<p>Oricorio-E's access to both Quiver Dance and Taunt alongside Roost means, unlike other setup sweepers, it can repeatedly beat common counterplay like Haze, Toxic, Encore, Whirlwind, and Trick. Its typing is also a huge boon in this department, as it's immune to Klefki's Thunder Wave and resists popular physical attackers' STAB moves like Mienshao's Close Combat and Breloom's Bullet Seed while blanking Flygon's Earthquake entirely. On top of that, since these Pokemon are often Choice-locked, they can become setup fodder for Oricorio-E. However, Oricorio-E must have two turns to become fully set up, as many Pokemon that are faster than it like Mienshao, Munkidori, and Inteleon often carry Choice Scarf and can still outspeed it after one boost. It also struggles to get much done versus offensive teams because they excel at outspeeding and overpowering Oricorio-E before it can amass enough boosts. Flying-resistant Pokemon like Iron Thorns, Diancie, and Copperajah are also big roadblocks for Oricorio-E.</p>",
     "comments": "<h3>Other Options</h3> <p>Oricorio-E can run Hurricane for more breaking power, but it then gets completely walled by Wind Rider Brambleghast, especially if it lacks Revelation Dance. Oricorio-E can also run a support set with Air Slash / U-turn / Roost / Defog, but this is generally considered a waste of its other talents due to there being better options for entry hazard control.</p> <h3>Checks and Counters</h3> <p><strong>Steel-types</strong>: Steel-types such as Registeel, Copperajah, and Bronzong can wall Oricorio-E, and when against non-Taunt sets, they can set entry hazards, phaze it, and start boosting themselves. Klefki is notable as well due to Prankster giving its status moves priority, meaning Oricorio-E must Terastallize into a Steel-type to avoid a Toxic Orb poisoning from its Switcheroo. However, Taunt shuts all of them down, barring Klefki, and both Registeel and Copperajah must be cautious of Tera Ground Revelation Dance sets.</p> <p><strong>Rock-types</strong>: Diancie walls Oricorio-E and forces it out with Diamond Storm or Meteor Beam. Because of this, it can typically take advantage of its free turn and set up hazards or Trick Room. Iron Thorns walls Oricorio-E as well, and it can take advantage of its free turns with Dragon Dance. But, these Rock-types must be cautious of Tera Ground Revelation Dance, as it easily deals with these threats.</p> <p><strong>Powerful Wallbreakers</strong>: Strong wallbreakers like Chandelure, Dragalge, and Staraptor have enough power to overwhelm Oricorio-E early on, and because of this, they can effectively stop setup. However, once Oricorio-E collects enough boosts, these Pokemon are no longer adequate answers.</p>",
@@ -380,6 +381,7 @@
     },
     "credits": {"writtenBy": [{"user_id": 583607, "username": "PowerOfMemes"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 400664, "username": "Stories"}, {"user_id": 336073, "username": "Rabia"}]}, {"name": "Grammar checked by", "members": [{"user_id": 297659, "username": "deetah"}]}]}
   },
+  "Oricorio-Sensu": {"sets": {"Quiver Dance": {}}},
   "Mudsdale": {"sets": {"Defensive": {}}},
   "Araquanid": {"sets": {"Sticky Web": {"description": "<p>The Speed EVs help to outpace Vaporeon.</p>"}}},
   "Salazzle": {"sets": {"Nasty Plot": {}, "Utility": {}}},
