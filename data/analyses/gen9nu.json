@@ -417,7 +417,7 @@
   "Drednaw": {"sets": {"Shell Smash": {}}},
   "Coalossal": {"sets": {"Physically Defensive": {}}},
   "Sandaconda": {"sets": {"Defensive Wall": {}}},
-  "Toxtricity": {"sets": {"Wallbreaker": {}}},
+  "Toxtricity": {"sets": {"Scream": {}}},
   "Grimmsnarl": {"sets": {"Offensive": {}, "Bulk Up": {}}},
   "Pincurchin": {"sets": {"Terrain Setter": {}}},
   "Indeedee": {"sets": {"Terrain Setter": {}, "Choice Item": {"description": "<p>Calm Mind should only be used on sets including Trick, so Indeedee can take advantage the newly Choice-locked target</p>"}, "Calm Mind": {}}},
@@ -478,7 +478,7 @@
     "credits": {"writtenBy": [{"user_id": 272785, "username": "nimzowitsch"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 400664, "username": "Stories"}]}, {"name": "Grammar checked by", "members": [{"user_id": 583793, "username": "Sabelette"}, {"user_id": 423085, "username": "Deezcastforms"}]}]}
   },
   "Dudunsparce": {"sets": {"Coil": {}, "Calm Mind": {}, "Stealth Rock": {}}},
-  "Scream Tail": {"sets": {"Utility": {}, "Booster Energy Calm Mind": {"description": "<p>216 Speed EVs allows Scream Tail to outpace Choice Scarf Munkidori after activating its Speed-boosting Booster Energy.</p>"}, "Lead": {}}},
+  "Scream Tail": {"sets": {"Utility": {}, "Scream 2 (Booster Energy Calm Mind)": {"description": "<p>216 Speed EVs allows Scream Tail to outpace Choice Scarf Munkidori after activating its Speed-boosting Booster Energy.</p>"}, "Lead": {}}},
   "Brute Bonnet": {"sets": {"Covert Cloak": {}}},
   "Iron Thorns": {"sets": {"Dragon Dance": {}, "Lead Entry Hazards Setter": {"description": "<p>23 Attack IVs alongside a Timid nature ensures Iron Thorns boosts its Speed with Booster Energy.</p>"}}},
   "Wo-Chien": {"sets": {"Defensive": {}}},
